@@ -1,3 +1,3 @@
 <?php
 
-include __DIR__ . '/views/hello.html';
+include __DIR__ . '/views/hello.html'; // load view
